@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    background-color: rgb(103, 139, 74);
+    height: 8vh;
+}
+
+.drop{
+    height: 5vh;
+    width: 3vw;
+    padding-top: 3px;
+    margin-top: 15px;
+    margin-left: 6px;
+}
+
+svg{
+    color: rgb(18, 45, 69);
+}
+
+video{
+    width:100vw;
+    height: 100vh;
+    object-fit: cover;
+    margin: 0px;  
+    position: fixed;
+    z-index: -1;
+}
+
+.body{
+    position: fixed;
+    bottom: 45%;
+    left: 5%;
+    font-size: xx-large;
+    font-family: monospace;
+}
+
+.footer{
+    background-color: rgb(95, 138, 60);;
+    height: 8vh;
+    margin-top: 84vh;
+}
+
